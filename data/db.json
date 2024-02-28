@@ -21,7 +21,8 @@
       "publisher": "DC Comics",
       "alter_ego": "Kal-El",
       "first_appearance": "Action Comics #1",
-      "characters": "Kal-El"
+      "characters": "Kal-El",
+      "alt_img": "https://sobrecomic.com/wp-content/uploads/2008/06/superman.jpg"
     },
     {
       "id": "dc-flash",
@@ -80,20 +81,13 @@
       "characters": "Dan Garret, Ted Kord, Jaime Reyes"
     },
     {
-      "id": "dc-black",
-      "superhero": "Black Canary",
-      "publisher": "DC Comics",
-      "alter_ego": "Dinah Drake",
-      "first_appearance": "Flash Comics #86",
-      "characters": "Dinah Drake, Dinah Lance"
-    },
-    {
       "id": "marvel-spider",
       "superhero": "Spider Man",
       "publisher": "Marvel Comics",
       "alter_ego": "Peter Parker",
       "first_appearance": "Amazing Fantasy #15",
-      "characters": "Peter Parker"
+      "characters": "Peter Parker",
+      "alt_img": "https://upload.wikimedia.org/wikipedia/en/2/21/Web_of_Spider-Man_Vol_1_129-1.png"
     },
     {
       "id": "marvel-captain",
@@ -110,14 +104,6 @@
       "alter_ego": "Tony Stark",
       "first_appearance": "Tales of Suspense #39",
       "characters": "Tony Stark"
-    },
-    {
-      "id": "marvel-thor",
-      "superhero": "Thor",
-      "publisher": "Marvel Comics",
-      "alter_ego": "Thor Odinson",
-      "first_appearance": "Journey into Myster #83",
-      "characters": "Thor Odinson"
     },
     {
       "id": "marvel-hulk",
@@ -166,6 +152,15 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "P-SuyYy",
+      "superhero": "Plasticman",
+      "publisher": "DC Comics",
+      "alter_ego": "Patrick O'Brian",
+      "first_appearance": "Police Comics # 1",
+      "characters": "Patrick \"Eel\" O'Bria",
+      "alt_img": "https://m.media-amazon.com/images/M/MV5BZWQ1ZjdkNWYtZTgwNS00MzNiLWExYWEtMWE3NzgwNmYxNTU1XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg"
     }
   ]
 }
